@@ -17,5 +17,5 @@ The application stack is React, Java/Spring, REST API, Liquibase, Postgres, Hibe
 The application enables a user to register his name and the business sectors they are currently involved in. It validates, that the name and at least one business sector is provided, the user agreement to terms are checked. When the validations are passed, the data is saved to the database and the submission form is cleared in the browser. If a user wants to register their data twice, a notification will appear that the data for the provided user is already present and the data of a non-existent user should be provided.
 The frontend application communicates to the backend in two occasions: for fetching the list of possible business sectors and for saving the user data.    
 
-<br>
+<br><br>
 Looking forward to hearing Your feedback and the suggestions for the app improvement!
