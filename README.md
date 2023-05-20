@@ -4,7 +4,7 @@ Welcome to "Registration Form - Fullstack" project!
 
 You can see the project's code here:
 - Backend (Java module runs on port 8080): https://github.com/AndyDeveloperIsCoding/Registration_Form_-_Java
-- Frontend (React module runs on port 3000): XYZ
+- Frontend (React module runs on port 3000): https://github.com/AndyDeveloperIsCoding/name_and_sectors_react
 
 The project requires a Postgres database available on Your machine (port 5432) with the following settings:
 - Database name: testdb
